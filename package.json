@@ -1,0 +1,22 @@
+{
+  "name": "vk-markup-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHayk/Vk-markup-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHayk/Vk-markup-/issues"
+  },
+  "homepage": "https://github.com/MrHayk/Vk-markup-#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

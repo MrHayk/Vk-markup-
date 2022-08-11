@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="reg.css">
+    <script type="text/javascript">
+        window.onload = function(){
+           var refButton = document.getElementById("btnButton");
+
+            refButton.onclick = function() {
+                alert('I am clicked!');
+            }
+        };
+    </script>
+    <link rel="icon" href="images/vklogo.png">
+    <title>Free Registration</title>
+
+</head>
+
+<body>
+    <div class="main">
+
+        <div class="container">
+            <div class="firstname">
+                <p>Name</p>
+                <input type="text" placeholder="  Input First name">
+                <input type="text" placeholder="  Input Last name">
+            </div>
+            <div class="company">
+                <p>Company</p>
+                <input type="text" placeholder="  Input company name">
+            </div>
+            <div class="email">
+                <p>Email</p>
+                <input type="text" placeholder="  Input your Email">
+            </div>
+            <div class="phone">
+                <p>Phone</p>
+                <input type="text" placeholder=" Input your phone number with country code">
+            </div>
+
+            <!-- <div class="employee">
+                <p class="text4">Are you an existing employee</p>
+                <input type="radio" value="">
+                <label for="">Yes</label>
+                <input type="radio" value="">
+                <label for="">No</label>
+            </div> -->
+            <form action="">
+                <input class="register" type="submit" value="REGISTER">
+            </form>
+        </div>
+
+    </div>
+</body>
+
+</html>
