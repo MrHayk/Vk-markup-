@@ -23,13 +23,15 @@
     /* height: 100px; */
     /* width: auto; */
     /* width: auto; */
-    justify-content: center;
-    margin: 20px;
+    /* justify-content: space-around;
+    align-items: center; */
+    /* margin: 20px; */
 }
 
 .col {
     background-color: rgb(21, 114, 80);
-    margin: 20px;
+    margin: 10px;
+    padding: 0px;
 }
 .container :nth-child(1) div {
     width: 100px;
@@ -48,12 +50,12 @@
     height: 80px;
 }
 .container :nth-child(4) div {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
 }
 .col {
     background-color: teal;
-    justify-content: space-evenly;
-    /* align-items: center;
-    justify-content:center; */
+    justify-content: space-arround;
+    align-items: center;
+    justify-content:center;
 }
