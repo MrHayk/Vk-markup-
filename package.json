@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MrHayk/Vk-markup-#readme",
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "nodemon": "^2.0.19"
   }
 }
