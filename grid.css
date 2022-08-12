@@ -17,17 +17,6 @@
     justify-content: center;
 }
 
-.row{
-    /* justify-content: space-evenly; */
-    /* border: 1px solid teal; */
-    /* height: 100px; */
-    /* width: auto; */
-    /* width: auto; */
-    /* justify-content: space-around;
-    align-items: center; */
-    /* margin: 20px; */
-}
-
 .col {
     background-color: rgb(21, 114, 80);
     margin: 10px;
