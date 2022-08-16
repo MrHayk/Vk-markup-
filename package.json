@@ -1,10 +1,9 @@
 {
   "name": "vk-markup-",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
-    "dev": "nodemon script.js"
+    "dev": "nodemon grid.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,12 @@
   "homepage": "https://github.com/MrHayk/Vk-markup-#readme",
   "dependencies": {
     "bootstrap": "^5.2.0",
-    "nodemon": "^2.0.19"
-  }
+    "finalhandler": "^1.2.0",
+    "gh-pages": "^4.0.0",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.19",
+    "serve-static": "^1.15.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
